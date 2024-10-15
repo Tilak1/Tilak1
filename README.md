@@ -1,4 +1,4 @@
-### Hi, I'm Tilak Marupilla! 👋
+### Hi, I'm Tilak ! 👋
 
 **I'm a final-year Master's student at Northeastern University, specializing in Generative AI, hardware engineering, and wireless communication systems.** I work as a research assistant under Prof. [Tommaso Melodia](https://ece.northeastern.edu/wineslab/tmelodia.php) at the Institute for the Wireless Internet of Things.
 
