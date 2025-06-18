@@ -5,7 +5,7 @@
 I focus on projects that integrate machine learning, embedded systems, and signal processing. Some key areas I'm currently passionate about include:
 
 - **Generative AI and Neural Architectures** 🧠
-- **TinyML & FPGA-based AI Implementations** ⚙️
+- **GPU & FPGA-based AI Implementations** ⚙️
 - **Signal Processing & RF Data Analysis** 📊
 - **Deep Reinforcement Learning & Scheduling for 5G Networks** 📡
 
